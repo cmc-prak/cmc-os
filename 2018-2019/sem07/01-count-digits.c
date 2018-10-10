@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
     const unsigned char *cptr = vptr;
     for (size_t i = 0; i < size; ++i) {
         unsigned val = *cptr++ - '0';
-        if (val <= 9) {
+        if (val <= DIGIT_COUNT) {
             ++counts[val];
         }
     }
