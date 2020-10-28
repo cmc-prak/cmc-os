@@ -1,5 +1,5 @@
-## Процессы (fork, wait, exit, exec, system)
+# Процессы (fork, wait, exit)
 
 [Запись занятия](https://www.youtube.com/watch?v=-Vmeobgh96k)
 
-[Слайды]
+[Слайды](sem07.pdf)
