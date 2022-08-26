@@ -508,7 +508,7 @@ var.field, var->field, var->do_method(), arr[i][j]
 
 ```c
     printf("%d\n", value);
-    while ((c = getchar()) != EOF);
+    while ((c = getchar()) != EOF) {}
 ```
 
 4.7.6.
