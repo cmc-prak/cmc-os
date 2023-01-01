@@ -443,3 +443,8 @@ int main(int argc, char *argv[])
 ./prog: variable 'Z' is undefined
 [cher@fedora ~]$ 
 ```
+
+# Дополнительный материал
+
+## Где хранятся аргументы командной строки и переменные окружения
+
